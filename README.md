@@ -45,7 +45,7 @@ Este proyecto fue construido utilizando estas tecnologías.
 
 **📱 Completamente responsive**
 
-** Puede ver una demostración en vivo desde el siguiel link [Portfolio](https://github.com/EdinarWeb/).**
+Puede ver una demostración en vivo desde el siguiel link [Portfolio](https://github.com/EdinarWeb/).
 
 ## Empezando
 
