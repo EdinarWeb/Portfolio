@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<h2 align="center">
+  Diseño Ecommerce - v1.0<br/>
+  <a href="https://edinarweb.com" target="_blank">edinarweb.com</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/readme-img1.png" />
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Ecommerce/) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/made-with-javascript.svg)](https://github.com/EdinarWeb/) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/open-source.svg)](https://github.com/EdinarWeb/Ecommerce/) &nbsp;
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3 align="center">
+    🔹
+    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Reportar Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Solicitar función</a>
+</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## TL;DR
 
-### `npm test`
+Puede bifurcar este repositorio para modificarlo y realizar sus propios cambios. Por favor, denme el crédito adecuado vinculándome a [EdinarWeb](https://github.com/EdinarWeb/). ¡Gracias!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Construido con ❤️
 
-### `npm run build`
+Pueden visitar mi portafolio personal <a href="http://edinarweb.com/" target="_blank">edinarweb.com</a> que presenta algunos de mis proyectos de github, así como mi currículum y habilidades técnicas.<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este proyecto fue construido utilizando estas tecnologías.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- Sass
+- VsCode
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Características
 
-### `npm run eject`
+**📖 Diseño de una sola página**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**🎨 Diseñado con el preprocesador de css SASS con colores fáciles de personalizar**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**📱 Completamente responsive**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Empezando
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clona este repositorio. Necesitará `node.js` y `git` instalados globalmente en su máquina.
 
-## Learn More
+## 🛠 Instrucciones de instalación y configuración
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Instalación: `npm install`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. En el directorio del proyecto, puede ejecutar: `npm start`
 
-### Code Splitting
+Ejecuta la aplicación en el modo de desarrollo.\
+Abra [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
+La página se volverá a cargar si realiza modificaciones.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Instrucciones de uso
 
-### Analyzing the Bundle Size
+Abra la carpeta del proyecto y navegue hasta `/src/components/` y `/src/pages`. <br/>
+Encontrará todos los componentes y páginas utilizados y podrá editar su información en consecuencia.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Muestra tu apoyo
 
-### Making a Progressive Web App
+¡Dale un ⭐ si te gusta este sitio web!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://www.buymeacoffee.com/edinarweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
