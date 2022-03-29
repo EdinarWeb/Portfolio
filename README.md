@@ -1,6 +1,9 @@
 <h2 align="center">
   Portfolio Personal - v1.0<br/>
   <a href="https://edinarweb.com" target="_blank">EdinarWeb</a>
+  <br/>
+  Puede ver una demostración en vivo desde el siguiente link<br/>
+  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://github.com/EdinarWeb/Portfolio/blob/main/public/images/readme-img1.png" />
@@ -8,11 +11,7 @@
 
 <br/>
 
-<h2 align="center">
-  Puede ver una demostración en vivo desde el siguiente link<br/>
-</h2>
-  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
-<br/><br/>
+
 <div align="center">
 
 [![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
