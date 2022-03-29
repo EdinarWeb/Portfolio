@@ -1,6 +1,5 @@
 <h2 align="center">
   Portfolio Personal - v1.0<br/>
-  <a href="https://edinarweb.com" target="_blank">EdinarWeb</a>
   <br/><br/>
   Puede ver una demostración en vivo desde el siguiente link<br/>
   <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
