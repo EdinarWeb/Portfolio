@@ -34,6 +34,7 @@ Pueden visitar mi portafolio personal <a href="https://github.com/EdinarWeb/Port
 Este proyecto fue construido utilizando estas tecnologías.
 
 - React.js
+- HTML5
 - Sass
 - VsCode
 
