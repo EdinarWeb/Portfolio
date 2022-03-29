@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Personal - v1.0<br/>
-  <a href="https://edinarweb.com" target="_blank">edinarweb.com</a>
+  <a href="https://edinarweb.com" target="_blank">EdinarWeb</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://github.com/EdinarWeb/Portfolio/blob/main/public/images/readme-img1.png" />
