@@ -71,4 +71,4 @@ Encontrará todos los componentes y páginas utilizados y podrá editar su infor
 
 ¡Dale un ⭐ si te gusta este sitio web!
 
-<a href="https://www.buymeacoffee.com/edinarweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/edinarweb" target="_blank"><img src="https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
