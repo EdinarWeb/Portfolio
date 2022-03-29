@@ -69,6 +69,6 @@ Encontrará todos los componentes y páginas utilizados y podrá editar su infor
 
 ### Muestra tu apoyo
 
-¡Dale un ⭐ si te gusta este sitio web!
+¡Dale una ⭐ si te gusta este sitio web!
 
 <a href="https://www.buymeacoffee.com/edinarweb" target="_blank"><img src="https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
