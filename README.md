@@ -29,7 +29,7 @@ Puede bifurcar este repositorio para modificarlo y realizar sus propios cambios.
 
 ## Construido con ❤️
 
-Pueden visitar mi portafolio personal <a href="http://edinarweb.com/" target="_blank">GIT</a> que presenta algunos de mis proyectos de github, así como mi currículum y habilidades técnicas.<br/>
+Pueden visitar mi portafolio personal <a href="https://github.com/EdinarWeb/Portfolio/" target="_blank">GIT</a> que presenta algunos de mis proyectos de github, así como mi currículum y habilidades técnicas.<br/>
 
 Este proyecto fue construido utilizando estas tecnologías.
 
