@@ -1,5 +1,5 @@
 <h2 align="center">
-  Diseño Ecommerce - v1.0<br/>
+  Portfolio Personal - v1.0<br/>
   <a href="https://edinarweb.com" target="_blank">edinarweb.com</a>
 </h2>
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![edinarweb](https://github.com/EdinarWeb/Ecommerce/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
+[![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
 [![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/made-with-javascript.svg)](https://github.com/EdinarWeb/) &nbsp;
 [![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/open-source.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
 
@@ -18,9 +18,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Reportar Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/EdinarWeb/Portfolio/issues">Reportar Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/EdinarWeb/Ecommerce/issues">Solicitar función</a>
+    <a href="https://github.com/EdinarWeb/Portfolio/issues">Solicitar función</a>
 </h3>
 
 ## TL;DR
