@@ -2,7 +2,7 @@
   Portfolio Personal - v1.0<br/>
   <br/>
   Puede ver una demostración en vivo desde el siguiente link<br/>
-  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
+  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio Personal</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://github.com/EdinarWeb/Portfolio/blob/main/public/images/readme-img1.png" />
