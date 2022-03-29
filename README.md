@@ -12,7 +12,7 @@
   Puede ver una demostración en vivo desde el siguiente link<br/>
   <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
 </h2>
-
+<br/><br/>
 <div align="center">
 
 [![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
