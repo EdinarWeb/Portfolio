@@ -9,8 +9,8 @@
 <br/>
 
 <h2 align="center">
-  Puede ver una demostración en vivo desde el siguiel link<br/>
-  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">PORTFOLIO</a>
+  Puede ver una demostración en vivo desde el siguiente link<br/>
+  <a href="https://edinarweb-portfolio.netlify.app/" target="_blank">Portfolio</a>
 </h2>
 
 <div align="center">
