@@ -8,6 +8,11 @@
 
 <br/>
 
+<h2 align="center">
+  Puede ver una demostración en vivo desde el siguiel link<br/>
+  <a href="(https://edinarweb-portfolio.netlify.app/" target="_blank">PORTFOLIO</a>
+</h2>
+
 <div align="center">
 
 [![edinarweb](https://github.com/EdinarWeb/Portfolio/blob/main/public/images/badges/built-with-love.svg)](https://github.com/EdinarWeb/Portfolio/) &nbsp;
@@ -45,8 +50,6 @@ Este proyecto fue construido utilizando estas tecnologías.
 **🎨 Diseñado con el preprocesador de css SASS con colores fáciles de personalizar**
 
 **📱 Completamente responsive**
-
-Puede ver una demostración en vivo desde el siguiel link [Portfolio](https://edinarweb-portfolio.netlify.app/).
 
 ## Empezando
 
